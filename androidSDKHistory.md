@@ -5,7 +5,7 @@
 | [Lollipop](https://developer.android.com/about/versions/lollipop.html) | 5.0-5.1.1 | 11/12/2014 | 21-22 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/lollipop.png) |
 | [KitKat](https://developer.android.com/about/versions/kitkat.html) | 4.4-4.4.4 | 10/31/2013 | 19-20 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/kitkat.png) |
 | [Jelly Bean](https://developer.android.com/about/versions/jelly-bean.html) | 4.1-4.3.1 | 7/9/2012 | 16-18 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/jellybean.png) |
-| Ice Cream Sandwich | 4.0-4.0.4 | 10/18/2011 | 14-15 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/icecreamsandwich.png) |
+| [Ice Cream Sandwich](https://developer.android.com/about/versions/android-4.0-highlights.html) | 4.0-4.0.4 | 10/18/2011 | 14-15 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/icecreamsandwich.png) |
 | [Honeycomb](https://developer.android.com/about/versions/android-3.0-highlights.html) | 3.0-3.2.6 | 02/22/2011 | 11-13 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/honeycomb.png) |
 | [Gingerbread](https://developer.android.com/about/versions/android-2.3-highlights.html) | 2.3-2.3.7 | 12/6/2010 | 9-10 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/gingerbread.png) |
 | [Froyo](https://developer.android.com/about/versions/android-2.2-highlights.html) | 2.2-2.2.3 | 05/20/2010 | 8 | ![alt text](https://raw.githubusercontent.com/hoangcau408/androidSDKHistory/master/froyo.png) |
